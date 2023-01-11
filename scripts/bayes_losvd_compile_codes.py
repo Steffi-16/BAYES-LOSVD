@@ -5,7 +5,7 @@ import pystan
 import warnings
 import lib.misc_functions as     misc
 from   hashlib            import md5
-#==============================================================================
+#============================================================================== test for branches
 def stan_cache(model_code, model_name=None, **kwargs):
 
     """Use just as you would `stan`"""
